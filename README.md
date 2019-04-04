@@ -1,3 +1,3 @@
 Here's an image of final game:
 
-![Game window](pacman.jpg)
+![Game window](pacman.png)
