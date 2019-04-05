@@ -1,4 +1,4 @@
-# Pac-Man: Java, AWt, paint.net 
+# Pac-Man: Java, AWT, paint.net 
 Pac-man is a 2-D game, the basic objective of which is to make our protagonist aka Pac-Man
 eat all the coins in a maze while being chased by 4 bots. The player has to navigate pac-man
 through the maze and fool the ghosts while at the same time consuming coins. If the bots
